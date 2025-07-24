@@ -168,7 +168,7 @@ const names = ['Rocío', 'Cris', 'Antía', 'Judith', 'Noelia'];
 for (let name of names) {
   console.log(`Hola, mi nombre es ${name}`);
 }
-
+//estoy haciendo pruebas con el github
 
 //Ejercicio 15: Con un bucle while imprime en consola una lista del 1 al 5.
 
